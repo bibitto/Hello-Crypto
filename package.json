@@ -1,0 +1,12 @@
+{
+  "name": "greeter",
+  "version": "1.0.0",
+  "description": "greeter",
+  "main": "index.js",
+  "repository": "https://github.com/bibitto/I2P-app.git",
+  "author": "bibitto <bibitto.crypto@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "truffle": "^5.5.18"
+  }
+}
